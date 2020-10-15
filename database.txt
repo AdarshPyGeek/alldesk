@@ -1,0 +1,7 @@
+email, subject, message
+
+sd@d.com , zfz , zdf
+sd@d.com , zfzgrsjtr , zdfsd@d.com,zfzgrsjtr,zdf
+sxcbcxd@d.com,vxzfzgrsjtr,zdfxvdv
+{'sxcbcxd@d.com'},{'vxzfzgrsjtr'},{'zdxfgfxvdv'}
+sxcbcxd@d.com,vxzfzgrsjtr,zdxfgfxvdv
